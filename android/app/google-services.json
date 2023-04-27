@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "49999196527",
+    "project_id": "notes-prac-flutter",
+    "storage_bucket": "notes-prac-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49999196527:android:432f20765e6bd434c0f89a",
+        "android_client_info": {
+          "package_name": "com.example.mynotes_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49999196527-qb6i3p7de3j0rjmvr7b85sm11vaiprar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU26SNflCwK3GEHv791Cz010Lwf7_bgk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49999196527-qb6i3p7de3j0rjmvr7b85sm11vaiprar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49999196527-vrj9c40gc2j8s7teqcubq2k4d56v1bvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mynotesPrac"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49999196527:android:15638c22c1858f7ec0f89a",
+        "android_client_info": {
+          "package_name": "com.example.mynotes_practiceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49999196527-qb6i3p7de3j0rjmvr7b85sm11vaiprar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU26SNflCwK3GEHv791Cz010Lwf7_bgk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49999196527-qb6i3p7de3j0rjmvr7b85sm11vaiprar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49999196527-vrj9c40gc2j8s7teqcubq2k4d56v1bvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mynotesPrac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
