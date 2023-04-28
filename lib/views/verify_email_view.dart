@@ -24,7 +24,7 @@ class _VerifyEmailState extends State<VerifyEmail> {
             final currentUser = FirebaseAuth.instance.currentUser;
             await currentUser?.sendEmailVerification();
           },
-          child: const Text("Send verification email"),
+          child: const Text("Send verification email again"),
         ),
         TextButton(
           onPressed: () async {
