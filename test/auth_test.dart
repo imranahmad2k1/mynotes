@@ -13,7 +13,7 @@ void main() {
     test('Cannot log out if not initiliazed', () {
       expect(
         provider.logOut(),
-        throwsA(TypeMatcher<NotInitializedException>()),
+        throwsA(const TypeMatcher<NotInitializedException>()),
       );
     });
     test('Should be able to be initialized', () async {
